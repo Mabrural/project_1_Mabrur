@@ -1,0 +1,30 @@
+html, body.login{
+    height: 100%;
+    background-color: #222 !important;
+    /* background-image: url("img/bg.jpg"); */
+}
+
+html, body.register{
+    height: 100%;
+    background-color: #222 !important;
+}
+
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-form{
+    width: 380px;
+    height: 400px;
+    padding: 20px;
+}
+
+.daftar-form{
+    width: 380px;
+    height: 730px;
+    padding: 20px;
+}
+
